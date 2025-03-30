@@ -1,0 +1,1 @@
+import info from 'src/index'
